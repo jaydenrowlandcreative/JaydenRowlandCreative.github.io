@@ -1,0 +1,66 @@
+body{
+	font-family: 'PT Sans Narrow', sans-serif;
+	background-image: url('../images/wire.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% auto;
+	float: center;
+}
+
+nav{ 
+	background-color: #F31C2F;
+	height: 40px;
+	color: white;
+	text-align: right;
+	padding-top: 20px;
+	padding-right: 20px
+}
+
+
+footer{
+	color: white;
+	text-align: center;
+	padding-top: 40px;
+}
+
+main img{
+ width: 450px;
+ text-align: center;
+ padding-top: 40px;
+ margin-left: 0%;
+ 
+
+}
+
+h1{
+	text-align: center;
+	font-size: 150px;
+	color: white;
+}
+
+a{
+	color: white;
+	text-decoration: none;
+
+}
+
+li img{
+ width: 280px;
+
+}
+ul{
+	list-style-type: none;
+	margin: 10px auto;
+	padding-top: 50px;
+	text-align: center;
+	color: white; 
+}
+
+ul li{
+	
+	text-align: center;
+	width:290px;
+	display: inline-block;
+	;
+}
